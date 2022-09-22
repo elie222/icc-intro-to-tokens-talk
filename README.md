@@ -1,3 +1,9 @@
+# ICC Talk App
+
+This was the test app created for the ICC talk, an intro to ERC20 and ERC721 tokens.
+
+## Rainbow kit notes
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).
 
 ## Getting Started

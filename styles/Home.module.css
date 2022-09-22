@@ -100,3 +100,21 @@
     flex-direction: column;
   }
 }
+
+.button {
+  background: #0d76fc;
+  border: 1px solid #0d76fc;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.button:hover {
+  background: #fff;
+  color: #0d76fc;
+}
